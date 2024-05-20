@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1713453051 source:c:\users\nacha\onedrive\desktop\multiway tree\multiway_functions.c
+	"multiway_tree.h"
+
+1713452582 c:\users\nacha\onedrive\desktop\multiway tree\multiway_tree.h
+	<stdio.h>
+	<stdlib.h>
+
+1713453139 source:c:\users\nacha\onedrive\desktop\multiway tree\main.c
+	"multiway_tree.h"
+	<stdio.h>
+	<stdlib.h>
+
+1713453408 source:c:\users\nacha\onedrive\desktop\multiway tree package final\main.c
+	"multiway_tree.h"
+	<stdio.h>
+	<stdlib.h>
+
+1713452582 c:\users\nacha\onedrive\desktop\multiway tree package final\multiway_tree.h
+	<stdio.h>
+	<stdlib.h>
+
+1713453392 source:c:\users\nacha\onedrive\desktop\multiway tree package final\multiway_functions.c
+	"multiway_tree.h"
+
